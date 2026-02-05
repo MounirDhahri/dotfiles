@@ -1,0 +1,9 @@
+{
+  "id": "4",
+  "subject": "E-4: Migrate Gene screen to Tabs2",
+  "description": "Migrate Gene.tsx from old Tabs to Tabs2. Has SubTabBar complexity - defer until SubTabBar pattern is established.",
+  "activeForm": "Migrating Gene screen",
+  "status": "completed",
+  "blocks": [],
+  "blockedBy": []
+}

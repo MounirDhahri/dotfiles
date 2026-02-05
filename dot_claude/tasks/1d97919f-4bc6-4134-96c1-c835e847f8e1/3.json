@@ -1,0 +1,9 @@
+{
+  "id": "3",
+  "subject": "E-3: Migrate TabsFlatList wrapper to Tabs2",
+  "description": "Update src/app/Components/TabsFlatlist.tsx to use Tabs2.FlatList instead of Tabs.FlatList. DEFERRED: Only used in MyCollectionLegacy and MyCollectionInsights - will migrate when those screens are done.",
+  "activeForm": "Migrating TabsFlatList wrapper",
+  "status": "pending",
+  "blocks": [],
+  "blockedBy": []
+}

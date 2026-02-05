@@ -1,0 +1,9 @@
+{
+  "id": "1",
+  "subject": "PM-1: Implement function-based headerProps with MotionProgress",
+  "description": "Update palette-mobile Tabs2 to support headerProps as a function that receives MotionProgress:\n- Update TabsWithHeader.tsx to accept `headerProps?: HeaderProps | ((motionProgress: MotionProgress) => HeaderProps)`\n- Update TabsContainer.tsx to pass MotionProgress from HeaderMotion.Header to the header installer\n- Pass the resolved headerProps to the Screen header",
+  "activeForm": "Implementing function-based headerProps",
+  "status": "completed",
+  "blocks": [],
+  "blockedBy": []
+}

@@ -1,0 +1,9 @@
+{
+  "id": "2",
+  "subject": "PM-2: Export MotionProgress type from index",
+  "description": "Export MotionProgress and HeaderPropsWithMotion types from Tabs2/Tabs.tsx for consumers to use.",
+  "activeForm": "Exporting MotionProgress type",
+  "status": "completed",
+  "blocks": [],
+  "blockedBy": []
+}

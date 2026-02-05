@@ -1,0 +1,9 @@
+{
+  "id": "7",
+  "subject": "E-6: Migrate Collection screen to Tabs2",
+  "description": "Migrate Collection.tsx, CollectionArtworks.tsx, and CollectionOverview.tsx from Tabs to Tabs2.",
+  "activeForm": "Migrating Collection screen",
+  "status": "completed",
+  "blocks": [],
+  "blockedBy": []
+}

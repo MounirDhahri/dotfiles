@@ -1,0 +1,9 @@
+{
+  "id": "9",
+  "subject": "E-10: Migrate Partner screen to Tabs2",
+  "description": "Migrate Partner.tsx and related files from Tabs to Tabs2",
+  "activeForm": "Migrating Partner screen to Tabs2",
+  "status": "completed",
+  "blocks": [],
+  "blockedBy": []
+}
