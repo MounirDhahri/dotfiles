@@ -1,9 +1,0 @@
-{
-  "id": "6",
-  "subject": "E-5: Migrate Tag screen to Tabs2",
-  "description": "Migrate Tag.tsx, TagArtworks.tsx, and About.tsx from Tabs to Tabs2. Keep SubTabBar in ListHeaderComponent.",
-  "activeForm": "Migrating Tag screen",
-  "status": "completed",
-  "blocks": [],
-  "blockedBy": []
-}

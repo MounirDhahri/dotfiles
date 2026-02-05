@@ -1,9 +1,0 @@
-{
-  "id": "10",
-  "subject": "E-12: Migrate City screens to Tabs2",
-  "description": "Migrate City.tsx, AllEvents.tsx, and EventList.tsx from Tabs to Tabs2",
-  "activeForm": "Migrating City screens to Tabs2",
-  "status": "pending",
-  "blocks": [],
-  "blockedBy": []
-}

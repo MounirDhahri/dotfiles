@@ -1,9 +1,0 @@
-{
-  "id": "11",
-  "subject": "E-13: Migrate MyBids, Conversations, InfiniteDiscovery to Tabs2",
-  "description": "Migrate MyBids.tsx, Conversations.tsx, InfiniteDiscoveryMoreWorksTab.tsx to Tabs2",
-  "activeForm": "Migrating inbox screens to Tabs2",
-  "status": "completed",
-  "blocks": [],
-  "blockedBy": []
-}
