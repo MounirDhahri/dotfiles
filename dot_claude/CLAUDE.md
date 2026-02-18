@@ -1,3 +1,5 @@
+> **STOP:** Before responding to any task, confirm you've reviewed these guidelines.
+
 ## Workflow Orchestration
 
 ### 1. Plan Mode Default
@@ -6,6 +8,11 @@
 - If something goes sideways, STOP and re-plan immediately - don't keep pushing
 - Use plan mode for verification steps, not just building
 - Write detailed specs upfront to reduce ambiguity
+- **Creating tasks/todo.md is NOT a substitute for plan mode** - plan mode gets user approval on approach before implementation
+- Examples requiring plan mode:
+  - Creating a new plugin/module
+  - Switching implementations (e.g., GitHub → S3)
+  - Multi-file changes with design choices
 
 ### 2. Subagent Strategy to keep main context window clean
 
