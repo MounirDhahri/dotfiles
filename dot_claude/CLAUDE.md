@@ -1,5 +1,10 @@
 > **STOP:** Before responding to any task, confirm you've reviewed these guidelines.
 
+## Notification Sound
+
+- Before prompting the user for input (e.g., AskUserQuestion, EnterPlanMode, or any time you need to wait for user response), play a notification sound by running: `afplay /System/Library/Sounds/Tink.aiff &`
+- This ensures the user is alerted when their attention is needed
+
 ## Workflow Orchestration
 
 ### 1. Plan Mode Default
